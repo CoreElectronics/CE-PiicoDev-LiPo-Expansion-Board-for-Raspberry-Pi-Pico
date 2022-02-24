@@ -20,6 +20,7 @@ The [PiicoDev® Expansion Board for Raspberry Pi Pico](https://core-electronics.
   - 2 3.3V
   - 3 SDA
   - 4 SCL
+- The I2C Bus presented at the PiicoDev connector contains series 120Ohm resistances to prevent destructive signal undershoot. Refer to the [schematic](Documents/schematic.pdf) for more information. To operate without these series resistors, users may connect directly to the GPIO instead.
 
 # License
 This project is open source - please review the LICENSE.md file for further licensing information.
