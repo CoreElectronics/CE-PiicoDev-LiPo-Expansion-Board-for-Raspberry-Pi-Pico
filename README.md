@@ -1,8 +1,8 @@
-# PiicoDev® Expansion Board for Raspberry Pi Pico
+# PiicoDev® LiPo Expansion Board for Raspberry Pi Pico
 
 ![](Documents/piicodev-expansion-board-for-pico.jpg)
 
-The [PiicoDev® Expansion Board for Raspberry Pi Pico](https://core-electronics.com.au/catalog/product/view/sku/CE07693) is a great way to start experimenting with Raspberry Pi Pico/RP2040. Thanks to the onboard PiicoDev connector, you can quickly and easily connect to the PiicoDev family of sensor modules without soldering.
+The [PiicoDev® LiPo Expansion Board for Raspberry Pi Pico](https://core-electronics.com.au/catalog/product/view/sku/CE07693) is a great way to start experimenting with Raspberry Pi Pico/RP2040. Thanks to the onboard PiicoDev connector, you can quickly and easily connect to the PiicoDev family of sensor modules without soldering.
 
 - Breaks out each Pico pin, with handy labels
 - Take your project on the go with on-board LiPo battery charging.
