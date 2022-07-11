@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Expansion Board for Raspberry Pi Pico")
+    (title "PiicoDev LiPo Expansion Board for Raspberry Pi Pico")
     (date "2021-10-29")
     (rev "v11")
     (company "Core Electronics")
